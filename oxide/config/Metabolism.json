@@ -1,14 +1,14 @@
-{
-  "Permission -> Settings": {
-    "metabolism.2": {
-      "Water on respawn": 300.0,
-      "Calories on respawn": 300.0,
-      "Health on respawn": 75.0
-    },
-    "metabolism.1": {
-      "Water on respawn": 250.0,
-      "Calories on respawn": 250.0,
-      "Health on respawn": 100.0
-    }
-  }
+{  
+   "Permission -> Settings":{  
+      "metabolism.2":{  
+         "Water on respawn":300.0,
+         "Calories on respawn":400.0,
+         "Health on respawn":75.0
+      },
+      "metabolism.1":{  
+         "Water on respawn":250.0,
+         "Calories on respawn":250.0,
+         "Health on respawn":100.0
+      }
+   }
 }
