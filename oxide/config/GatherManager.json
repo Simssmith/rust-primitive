@@ -27,9 +27,10 @@
     "GatherDispenserModifiers": {},
     "GatherResourceModifiers": {
       "Raw Chicken Breast": 3.0,
-      "Raw Fish": 2.0,
+      "Raw Fish": 3.0,
       "Raw Bear Meat": 3.0,
-      "Raw Pork": 5.0,
+      "Raw Pork": 15.0,
+	  "Raw Deer Meat": 20.0,
       "Raw Horse Meat": 2.0,
       "Raw Wolf Meat": 2.0
     },
