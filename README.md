@@ -34,31 +34,31 @@ stag.population "6"
 o.grant group default blueprintmanager.conf  
 
 ## Thrid Party add-on used
-Oxide now known as umod https://umod.org/plugin is used to create this custom server. 
+Oxide now known as umod https://umod.org/plugin is used to create this custom server.   
 
 ### Better Loot
-Desc : Instead of using the game's default loot tables, Better Loot overrides any barrels and crates a player loots with something (hopefully) better.
-Plugin from https://umod.org/plugins/better-loot
-Config file is [oxide/config/BetterLoot.json](oxide/config/BetterLoot.json)
-Used https://blmc.artemdanilkin.ru/ to create custom loot for crates
+Desc : Instead of using the game's default loot tables, Better Loot overrides any barrels and crates a player loots with something (hopefully) better.  
+Plugin from https://umod.org/plugins/better-loot  
+Config file is [oxide/config/BetterLoot.json](oxide/config/BetterLoot.json)  
+Used https://blmc.artemdanilkin.ru/ to create custom loot for crates  
 
 ### Blue Print Manager
-Desc : Allows you to grant all blueprints, reset blueprints, and grant specific blueprints.
-Plugin from https://umod.org/plugins/blueprint-manager
-Config file is [oxide/config/BlueprintManager.json](oxide/config/BlueprintManager.json)
+Desc : Allows you to grant all blueprints, reset blueprints, and grant specific blueprints.  
+Plugin from https://umod.org/plugins/blueprint-manager  
+Config file is [oxide/config/BlueprintManager.json](oxide/config/BlueprintManager.json)  
 
 
 ### Component Blocker
-Desc : Removes entities and items completely from the game. This plugin is for server owners who want to restrict the availability of items or entities in the game world
-Plugin from https://umod.org/plugins/component-blocker 
-Config file is [oxide/config/ComponentBlocker.json](oxide/config/ComponentBlocker.json)
+Desc : Removes entities and items completely from the game. This plugin is for server owners who want to restrict the availability of items or entities in the game world  
+Plugin from https://umod.org/plugins/component-blocker  
+Config file is [oxide/config/ComponentBlocker.json](oxide/config/ComponentBlocker.json)  
 
 ### Gather manager 
-Desc : Allows for modification the amount of resources people gain from gathering them from dispensers, the amount gained from using a Mining Quarry, the amount gained from using Survey Charges when they are successful, and the amount of the collectible object pickups (the small lootable rocks and wood logs on the ground scattered around the map).
-Plugin from https://umod.org/community/gather-manager
-File is [oxide/config/GatherManager.json](oxide/config/GatherManager.json)
+Desc : Allows for modification the amount of resources people gain from gathering them from dispensers, the amount gained from using a Mining Quarry, the amount gained from using Survey Charges when they are successful, and the amount of the collectible object pickups (the small lootable rocks and wood logs on the ground scattered around the map).  
+Plugin from https://umod.org/community/gather-manager  
+File is [oxide/config/GatherManager.json](oxide/config/GatherManager.json)  
 
 ### Metabolism
-Desc : Allows you to change or disable the default metabolism values such as health, calories, and water (hydration) for all players with the related permission
-Plugin from https://umod.org/plugins/metabolism
-Config file is [oxide/config/Metabolism.json](oxide/config/Metabolism.json)
+Desc : Allows you to change or disable the default metabolism values such as health, calories, and water (hydration) for all players with the related permission  
+Plugin from https://umod.org/plugins/metabolism  
+Config file is [oxide/config/Metabolism.json](oxide/config/Metabolism.json)  
