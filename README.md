@@ -1,4 +1,4 @@
-# rust-primitive
+# Facepunch Rust Primitive Server Config
 Facepunch Rust private server configuration. 
 Real scarcity survival primitive medieval solo/duo inspired by Mountain Men TV Series. 
 
