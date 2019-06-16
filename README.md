@@ -6,7 +6,8 @@ Real scarcity survival primitive medieval solo/duo inspired by Mountain Men TV S
 Removed most high tech gears, weapons and kept primitive items to keep the game slow and challenging.  Reduce plant growth, spawn rate. Adjusted animal loot table so each animal plays a role either cloth, leather, meat, etc.  Added some default blueprint for everyone and removed ones related to advance items. 
 
 ## Server configuration
-From [cfg/server.cfg](cfg/server.cfg) file 
+From [cfg/server.cfg](cfg/server.cfg) file  
+  
 server.pvp true  
 server.pve false  
 sleepers.on true  
