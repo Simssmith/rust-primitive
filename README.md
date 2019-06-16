@@ -6,32 +6,32 @@ Real scarcity survival primitive medieval solo/duo inspired by Mountain Men TV S
 Removed most high tech gears, weapons and kept primitive items to keep the game slow and challenging.  Reduce plant growth, spawn rate. Adjusted animal loot table so each animal plays a role either cloth, leather, meat, etc.  Added some default blueprint for everyone and removed ones related to advance items. 
 
 ## Server configuration
-From [server.cfg](server.cfg) file 
-server.pvp true
-server.pve false
-sleepers.on true
-truth.enforce true
-minicopter.population 0
-heli.lifetimeMinutes "0"
-server.planttick "480"
-bradley.enabled false
-cargoship.event_enabled false
-decay.upkeep_period_minutes "9999"
-decay.upkeep_grief_protection "2880"
-spawn.min_rate ".1"
-spawn.max_rate ".3"
-spawn.min_density ".1"
-spawn.max_density ".3"
-server.seed true
-server.worldsize 6000
-server.seed 2068376
-bear.population "4"
-boar.population "8"
-chicken.population "9"
-horse.population "4"
-wolf.population "5"
-stag.population "6"
-o.grant group default blueprintmanager.conf
+From [cfg/server.cfg](cfg/server.cfg) file 
+server.pvp true  
+server.pve false  
+sleepers.on true  
+truth.enforce true  
+minicopter.population 0  
+heli.lifetimeMinutes "0"  
+server.planttick "480"  
+bradley.enabled false  
+cargoship.event_enabled false  
+decay.upkeep_period_minutes "9999"  
+decay.upkeep_grief_protection "2880"  
+spawn.min_rate ".1"  
+spawn.max_rate ".3"  
+spawn.min_density ".1"  
+spawn.max_density ".3"  
+server.seed true  
+server.worldsize 6000  
+server.seed 2068376  
+bear.population "4"  
+boar.population "8"  
+chicken.population "9"  
+horse.population "4"  
+wolf.population "5"  
+stag.population "6"  
+o.grant group default blueprintmanager.conf  
 
 ## Thrid Party add-on used
 Oxide now known as umod https://umod.org/plugin is used to create this custom server. 
